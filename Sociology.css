@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@500&display=swap');
+* {
+    font-family: 'Nunito';
+}
+.form-control {
+    font-weight: bold;
+}
+main {
+    border-radius: 20px;
+}
+ul{
+    list-style-type:  none;
+    font-size: 20px;
+}
+li {
+    font-weight: 500;
+}
+p {
+    background-color: #032539;
+    text-align: center;
+    font-weight: 700;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+.btnUP {
+    text-decoration: none;
+    top: 90%;
+    left: 94.5%;
+    font-size: 40px;
+}
